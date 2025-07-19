@@ -7,7 +7,7 @@ This repository contains a synthetic dataset simulating retirement readiness for
 ## Contents
 
 - `retirement.csv` : Synthetic dataset 
-- `retirementdata.ipynb` : Jupyter notebook used to generate the dataset with full code, underlying assumption, statistical method, logic assignment and link to real world statistic sources
+- `Retirement.Data.ipynb` : Jupyter notebook used to generate the dataset with full code, underlying assumption, statistical method, logic assignment and link to real world statistic sources
 
 ---
 
